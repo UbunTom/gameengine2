@@ -7,5 +7,6 @@ This is primarily a C++ project, using OpenGL and GLSL for graphics. The framewo
 
 Required libraries include:
  - GLFW
+ - GLEW
  - GLM
  - OpenGL
